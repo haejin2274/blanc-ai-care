@@ -5,4 +5,3 @@ services:
     buildCommand: 'echo "Static site - no build required"'
     staticPublishPath: .
     autoDeployTrigger: commit
-    plan: free
